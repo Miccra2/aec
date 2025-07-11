@@ -1,2 +1,2 @@
 # aec
-aec the compiler of Ä (ae) the programming language
+aec the compiler of Ä (ae) a programming language
